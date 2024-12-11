@@ -1,0 +1,6 @@
+Books_types*Price
+100_pages*25
+200_pages*40
+300_pages*60
+400_pages*80
+500_pages*100
